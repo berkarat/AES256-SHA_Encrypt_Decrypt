@@ -1,0 +1,14 @@
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\bin\Debug\Encrypt_Decrypt_AES256.exe.config
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\bin\Debug\Encrypt_Decrypt_AES256.exe
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\bin\Debug\Encrypt_Decrypt_AES256.pdb
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\obj\Debug\Encrypt_Decrypt_AES256.csprojResolveAssemblyReference.cache
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\obj\Debug\MainWindow.g.cs
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\obj\Debug\App.g.cs
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\obj\Debug\Encrypt_Decrypt_AES256_MarkupCompile.cache
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\obj\Debug\Encrypt_Decrypt_AES256_MarkupCompile.lref
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\obj\Debug\MainWindow.baml
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\obj\Debug\Encrypt_Decrypt_AES256.g.resources
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\obj\Debug\Encrypt_Decrypt_AES256.Properties.Resources.resources
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\obj\Debug\Encrypt_Decrypt_AES256.csproj.GenerateResource.Cache
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\obj\Debug\Encrypt_Decrypt_AES256.exe
+c:\users\berk\documents\visual studio 2015\Projects\Encrypt_Decrypt_AES256\Encrypt_Decrypt_AES256\obj\Debug\Encrypt_Decrypt_AES256.pdb
